@@ -1,4 +1,4 @@
-# Flask Translation API
+# Translation API
 
 A lightweight REST API built with **Flask** that provides text translation functionality via HTTP endpoints.
 
